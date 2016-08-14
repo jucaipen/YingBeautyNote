@@ -14,4 +14,10 @@
 ##应用截图
 记录卡片界面
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60812-213058.jpg)
-
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60813-114522.jpg)
+不同色彩卡片界面与仿支付宝手势加锁界面  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60812-213946.jpg)
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60812-214050.jpg)
+拖拽删除与拖拽排序界面  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60812-212938.jpg)
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60812-213037.jpg)
