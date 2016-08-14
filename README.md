@@ -12,12 +12,18 @@
 支持皮肤更换，换一个皮肤，换一种态度，支持皮肤透明设置，让宅男腐女在使用时总能看到自己心仪的女神男神
 
 ##应用截图
-记录卡片界面
+记录卡片界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60812-213058.jpg)
-![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60813-114522.jpg)
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60812-214328.jpg)
+
 不同色彩卡片界面与仿支付宝手势加锁界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60812-213946.jpg)
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60812-214050.jpg)
+
 拖拽删除与拖拽排序界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60812-212938.jpg)
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60812-213037.jpg)
+
+设置皮肤透明度效果后界面  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60813-114357.jpg)
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60813-114522.jpg)
