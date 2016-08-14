@@ -27,3 +27,5 @@
 设置皮肤透明度效果后界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60813-114357.jpg)
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60813-114522.jpg)
+
+更多界面请看Screenshot文件夹或者fork我的项目运行自行体验，如果喜欢的话记得follow，start一下哦。后期将通过版本迭代的方式逐渐扩充其功能
