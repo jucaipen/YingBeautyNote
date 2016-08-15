@@ -31,3 +31,5 @@
 更多界面请看Screenshot文件夹或者fork我的项目运行自行体验，如果喜欢的话记得follow，start一下哦。后期将通过版本迭代的方式逐渐扩充其功能
 
 博客详细介绍：http://blog.csdn.net/htq__/article/details/52205602
+各大App Market下载地址：
+![腾讯应用宝](http://sj.qq.com/myapp/detail.htm?apkName=com.htq.baidu.com.htq.baidu.coolnote)
